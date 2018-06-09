@@ -1,2 +1,2 @@
-# Classifica-o-de-Cervejas
+# Classificao-de-Cervejas
 Classificação de Cervejas
